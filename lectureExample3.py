@@ -25,3 +25,5 @@ class Solution:
             if timesAppeared == target:
                 return num
         return -1
+
+    repeatedNTimes([1,1,6,8,6,6,6,9])
